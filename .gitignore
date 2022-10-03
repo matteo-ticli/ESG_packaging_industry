@@ -153,4 +153,5 @@ dmypy.json
 cython_debug/
 
 # Do not include Data in the Git Repo
-!/Data v2.xlsx
+Data v2.xlsx
+
